@@ -1,7 +1,6 @@
-package test.br.com.alura.tdd.service;
+package br.com.alura.tdd.service;
 
 import br.com.alura.tdd.modelo.Funcionario;
-import br.com.alura.tdd.service.BonusService;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
